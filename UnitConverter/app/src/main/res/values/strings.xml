@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="calculateBMI">Calculate BMI</string>
+    <string name="very_severely_underweight">Very Severely Underweight</string>
+    <string name="severely_underweight">Severely Underweight</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese_class_i">Obese Class I</string>
+    <string name="obese_class_ii">Obese Class II</string>
+    <string name="obese_class_iii">Obese Class III</string>
+    <string-array name="units">
+        <item>SQUARE_INCHES</item>
+        <item>SQUARE_CENTIMETERS</item>
+        <item>SQUARE_FEET</item>
+        <item>SQUARE_METERS</item>
+        <item>SQUARE_MILES</item>
+        <item>SQUARE_KILOMETERS</item>
+    </string-array>
+    <string-array name="units_1">
+        <item>CELSIUS</item>
+        <item>FAHRENHEIT</item>
+        <item>KELVIN</item>
+    </string-array>
+    <string-array name="units_2">
+        <item>INCH</item>
+        <item>CENTIMETER</item>
+        <item>FOOT</item>
+        <item>METER</item>
+        <item>MILE</item>
+        <item>KILOMETER</item>
+    </string-array>
+    <string-array name="units_3">
+        <item>INCH</item>
+        <item>CENTIMETER</item>
+        <item>FOOT</item>
+        <item>METER</item>
+        <item>MILE</item>
+        <item>KILOMETER</item>
+    </string-array>
+    <string-array name="units_4">
+        <item>KILOGRAM</item>
+        <item>GRAMS</item>
+        <item>MILLIGRAMS</item>
+        <item>OUNCE</item>
+        <item>POUND</item>
+    </string-array>
+    <string-array name="units_5">
+        <item>US_DOLLAR</item>
+        <item>RUPEE</item>
+        <item>EURO</item>
+        <item>POUND_STERLING</item>
+        <item>UAE_DIRHAM</item>
+        <item>BITCOIN</item>
+        <item>ETHER</item>
+    </string-array>
+</resources>
